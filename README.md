@@ -16,7 +16,7 @@
 
 GitHub Pagesで公開しています。
 
-[https://hashio251.github.io/FUTURE-PROJECT-art-thinking-/](https://hashio251.github.io/01_website_performance-artthinking-/)
+[[https://hashio251.github.io/FUTURE-PROJECT-art-thinking-/](https://hashio251.github.io/01_website_performance-artthinking-/)](https://hashio251.github.io/01_website_presentation-artthinking-/)
 
 ![MIRAI PROJECT](./mirai-project.gif)
 
